@@ -1,0 +1,35 @@
+# Environment variables
+.env
+*.env
+
+# Python virtual environments
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# FastAPI / Uvicorn logs
+*.log
+
+# Gradio cache
+.gradio/
+
+# Streamlit cache (if used)
+.streamlit/
+
+# SQLite database and vector store
+data/*.db
+data/chroma/
+
+# VSCode / IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

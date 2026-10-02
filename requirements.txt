@@ -1,0 +1,19 @@
+# Requirements
+fastapi
+uvicorn
+gradio
+openai
+python-dotenv
+tiktoken
+pydantic
+pydantic-settings
+httpx
+beautifulsoup4
+tenacity
+pyyaml
+jinja2
+langchain
+langchain-openai
+langchain-ollama
+chromadb
+pytest
