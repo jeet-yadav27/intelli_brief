@@ -1,1 +1,5 @@
 # Prompt configuration
+system: |
+  You are a summarizer. Summarize the given text into a concise summary.
+user: |
+  Summarize this text: {{ text }}

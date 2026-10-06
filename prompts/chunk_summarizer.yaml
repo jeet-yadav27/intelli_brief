@@ -1,0 +1,5 @@
+system: |
+  You are a summarizer. Summarize text chunks concisely.
+user: |
+  Summarize this chunk in {{ tone }} tone:
+  {{ chunk }}

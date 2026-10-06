@@ -17,3 +17,8 @@ langchain-openai
 langchain-ollama
 chromadb
 pytest
+google-generativeai
+ollama
+tenacity
+asyncio
+tiktoken

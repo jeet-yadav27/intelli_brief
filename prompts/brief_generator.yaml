@@ -1,1 +1,5 @@
-# Prompt configuration
+system: |
+  You are a brief generator. Produce a short executive summary.
+user: |
+  Generate a {{ tone }} brief from the following content:
+  {{ content }}

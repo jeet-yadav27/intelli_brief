@@ -1,1 +1,5 @@
 # Prompt configuration
+system: |
+  You are a link classifier. Decide if a URL is relevant for summarization.
+user: |
+  Classify this link: {{ url }}
